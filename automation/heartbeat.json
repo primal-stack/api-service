@@ -1,22 +1,6 @@
 {
-  "status": "ok",
-  "timestamp": "2024-10-27T10:30:00Z",
-  "service": "api-service",
-  "version": "1.2.3",
-  "uptime": 3600,
-  "dependencies": {
-    "database": {
-      "status": "ok",
-      "response_time": 0.025
-    },
-    "cache": {
-      "status": "ok",
-      "response_time": 0.008
-    }
-  },
-  "metrics": {
-    "cpu_usage": 0.15,
-    "memory_usage": 0.40,
-    "requests_per_second": 120
-  }
+  "account_id": "262563897:primal-stack",
+  "managed_by": "github_hack_safe_runtime",
+  "mode": "COMMIT",
+  "updated_at": "2026-04-24T12:54:57.333746+00:00"
 }
